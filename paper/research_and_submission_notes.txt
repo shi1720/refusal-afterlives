@@ -54,4 +54,7 @@ engine is pinned and the public source hashes are recorded. Pair equivalence
 concerns story-relevant state and future rules, not reader interpretation or
 diagnostic histories. Full-episode random traversal is not exhaustive verification.
 
-Submission status is recorded separately after the browser confirmation.
+Submitted on 16 October 2026. Google Forms displayed: Your response has been
+recorded. See submission_receipt.json and the separately saved screenshot.
+Travel-grant interest was marked Yes. No full-paper upload was requested.
+This is confirmation of receipt, not an acceptance or a funding award.
