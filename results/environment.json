@@ -1,0 +1,10 @@
+{
+  "python": "3.9.6",
+  "node": "v22.16.0",
+  "os": "macOS-27.0.1-arm64-arm-64bit",
+  "packages": {
+    "reportlab": "4.4.10",
+    "matplotlib": "3.9.4",
+    "numpy": "1.26.4"
+  }
+}

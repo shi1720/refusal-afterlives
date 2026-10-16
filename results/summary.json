@@ -1,0 +1,43 @@
+{
+  "baseline_runs": 10000,
+  "seed_start": 0,
+  "seed_end": 9999,
+  "baseline_boundaries": {
+    "Episode2": 4879,
+    "WrapUp": 5121
+  },
+  "poem_arrivals": 5288,
+  "paired_runs": 5288,
+  "paired_mismatches": 0,
+  "downstream_choice_comparisons": 27756,
+  "paired_total_full_plays": 20000,
+  "local_executions": 17372,
+  "local_choice_sequences": 43,
+  "local_grid_cases": 404,
+  "local_model_disagreements": 0,
+  "local_endpoints_per_case": {
+    "Mistress": 25,
+    "UncleAdvice": 16,
+    "RD": 2
+  },
+  "baseline_poem_choices": {
+    "1366": 1792,
+    "1350": 1753,
+    "1359": 1743
+  },
+  "witness_seed": 3,
+  "witness_pre_poem_state": {
+    "sex": "female",
+    "he_pref": "she",
+    "relking": 64,
+    "wealth": "25",
+    "reputation": 39
+  },
+  "baseline_terminal_categories": {
+    "serial boundary": 4879,
+    "other closure": 3144,
+    "Torres closure": 1581,
+    "Mendosa closure": 117,
+    "death closure": 279
+  }
+}

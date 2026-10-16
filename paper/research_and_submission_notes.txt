@@ -1,0 +1,57 @@
+Research and submission record
+16 October 2026
+
+Venue fit
+IASPR 2027, Choosing Love, 29 June-1 July 2027, Universidad de Oviedo.
+Official call: https://www.iaspr.org/conferences/choosing-love-call-for-papers-iaspr-conference-2027/
+The conference requests an abstract of at most 250 words and a biography of
+at most 100 words. It does not request the full manuscript or supply a full-paper
+template in the call or inspected form. The deadline is 30 November 2026.
+Presentations are in person. The user confirmed active IASPR membership.
+Independent researchers are included in the listed travel-grant categories.
+The inspected abstract form asks whether the applicant will seek the Kathleen
+Seidel Travel Grant; it provides no requested-amount field. No funding amount or
+award has been inferred. No account on OpenReview is needed for this form.
+
+Topic selection and contribution boundary
+Broad proposals about AI companions, consent in romance, paid romantic choices,
+and rejected marriage proposals have extensive precedents. They were not treated
+as undiscovered topics. The selected contribution is an executable, source-specific
+analysis of opposite motives with identical branch bodies, asymmetric acceptance
+memory, and the distinction between romantic closure and serial eligibility.
+
+The literature search was targeted and iterative, not a systematic review. Searches
+included consent mechanics, romance-game agency, premium choices, Choice of Romance
+criticism, refusal in that work, interactive narrative verification, and romance
+scholarship on consent. No search establishes the absence of all prior overlapping
+work. In particular, Ma and Short already discuss uneven story lengths and court
+intrigue in this game; Nguyen and Ruberg already introduce consent mechanics;
+Moreno-Ger and colleagues already establish game model checking. The manuscript
+explicitly acknowledges these precedents and does not claim those ideas as new.
+
+Commercial context
+Kim's study of Choices and Episode documents an established commercial setting
+for monetized interactive fiction. The selected publisher's own Episode2 source
+shows a sequel purchase boundary. Those observations motivate an application to
+narrative QA and localization. They do not establish market size, customer demand
+for this particular tool, revenue gains, or patentability. No such claim is made.
+
+Prior-work overlap screen
+The opening two pages of all 58 PDFs available under Downloads/research were
+extracted for topic screening. The nearest literary title was Solar by Association,
+on source evidence and machine readings of Sultana's Dream; its primary text,
+question, evidence, and experiments differ from this study. Other nearby digital
+culture and design audits address street-art geography, responsive navigation,
+and AI action interfaces. No romance-game paper was identified in that screen.
+This is a topic-overlap check, not a full-text plagiarism audit of all prior work.
+Prior manuscripts and the resume are not included in the public artifact.
+
+Evidence status
+Source assertions, 30,000 full seeded plays in three batches, 5,288 reached-state
+intervention pairs, and 17,372 bounded local executions were actually run. The
+independent model agreed on all checked local destinations and values. The
+engine is pinned and the public source hashes are recorded. Pair equivalence
+concerns story-relevant state and future rules, not reader interpretation or
+diagnostic histories. Full-episode random traversal is not exhaustive verification.
+
+Submission status is recorded separately after the browser confirmation.

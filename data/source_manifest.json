@@ -1,0 +1,86 @@
+[
+  {
+    "scene": "startup",
+    "url": "https://www.choiceofgames.com/romance/scenes/startup.txt",
+    "bytes": 15860,
+    "sha256": "f6230891dc5820bdea40b95610d29e44ea8cf41a57a24ccbdc67fa3ee0f88b9c",
+    "lines": 450
+  },
+  {
+    "scene": "OpeningScene",
+    "url": "https://www.choiceofgames.com/romance/scenes/OpeningScene.txt",
+    "bytes": 20063,
+    "sha256": "6744ce2c4b8e8b87aee11ea0393f667615d0d2a047ef4813a24fb38114300ba4",
+    "lines": 415
+  },
+  {
+    "scene": "ComingOfAgeParty",
+    "url": "https://www.choiceofgames.com/romance/scenes/ComingOfAgeParty.txt",
+    "bytes": 12537,
+    "sha256": "c3fd2caaba59d859664f7a2c4b4a6147bf479659a0f3e143e3aee75ee01e9c63",
+    "lines": 305
+  },
+  {
+    "scene": "Masque",
+    "url": "https://www.choiceofgames.com/romance/scenes/Masque.txt",
+    "bytes": 26110,
+    "sha256": "5dc4f731bb96a5af9e363429b98e632af39fd141ce93e6173f4b557b4ffe6a74",
+    "lines": 393
+  },
+  {
+    "scene": "Tokens",
+    "url": "https://www.choiceofgames.com/romance/scenes/Tokens.txt",
+    "bytes": 56955,
+    "sha256": "eef00d7a87233965b20a720837c3aef0d62b40da9c90c6bc3401627980f06e24",
+    "lines": 701
+  },
+  {
+    "scene": "Politics",
+    "url": "https://www.choiceofgames.com/romance/scenes/Politics.txt",
+    "bytes": 57612,
+    "sha256": "f8e8ecb27a91e55d13c052138f1d0e2587ec92adab46f2f61d12ed48daa15645",
+    "lines": 793
+  },
+  {
+    "scene": "GrandBall",
+    "url": "https://www.choiceofgames.com/romance/scenes/GrandBall.txt",
+    "bytes": 16338,
+    "sha256": "fcf15d0e4fb1dc719ce88fd2c811cf6c98009eff2cf41dda6647875b80057f97",
+    "lines": 310
+  },
+  {
+    "scene": "Proposals",
+    "url": "https://www.choiceofgames.com/romance/scenes/Proposals.txt",
+    "bytes": 46583,
+    "sha256": "35c7515233bc9148929d9a58f21bc9f6510231d7720f6598bd1815f1665413b1",
+    "lines": 548
+  },
+  {
+    "scene": "Marriage",
+    "url": "https://www.choiceofgames.com/romance/scenes/Marriage.txt",
+    "bytes": 96118,
+    "sha256": "4f8d4c652c61780e6c925b92bd9770369491de5c8feb54a1298604b8bb5323c9",
+    "lines": 1618
+  },
+  {
+    "scene": "WrapUp",
+    "url": "https://www.choiceofgames.com/romance/scenes/WrapUp.txt",
+    "bytes": 744,
+    "sha256": "67496428e0c0759da7313f4da8f4e5b3f501b89fe188dc550b2f4b461959d8c5",
+    "lines": 40
+  },
+  {
+    "scene": "PrepScene",
+    "url": "https://www.choiceofgames.com/romance/scenes/PrepScene.txt",
+    "bytes": 164,
+    "sha256": "4bf767bc7451597f3dbcee06df76ae44c6b4d8f8606fff48069e7879946e06d1",
+    "lines": 16
+  },
+  {
+    "scene": "Episode2",
+    "url": "https://www.choiceofgames.com/romance/scenes/Episode2.txt",
+    "bytes": 1971,
+    "sha256": "592ebb8def41f55203db76078de691c5abbf0e2e7b59ad0f455d4ea1e672fa6d",
+    "lines": 43
+  }
+]
